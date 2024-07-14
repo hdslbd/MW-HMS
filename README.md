@@ -1,4 +1,4 @@
-# Smartphones and Wearables Health Monitoring System for Cardiovascular Health
+# Smartphones and Wearables for Cardiovascular Health
 
 ## Overview
 The Mobile and Wearable Health Monitoring System (MW-HMS) is a proposed initiative to leverage data from smartphones and wearable devices to improve the understanding and management of cardiovascular health in Bangladesh. This project aims to merge personal monitoring data with existing health datasets to provide a comprehensive overview of cardiovascular health trends and risk factors within the population.
